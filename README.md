@@ -1,5 +1,5 @@
 
-# nlw-together
+# Letmeask
 
 Este é meu projeto do NLW
 
