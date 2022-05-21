@@ -1,6 +1,6 @@
 <h1 align="center">Letmeask Ignite</h1>
 
-<p align="center">🤖 Fraude pix was a landing page that the folks at Resolv proposed to make for this pix bot they created</p>
+<p align="center">💭 Essay project, created for people who do live and need easier comment control</p>
 
 <p align="center">To start the project just run the commands below</p>
 
